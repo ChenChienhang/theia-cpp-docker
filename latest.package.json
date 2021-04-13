@@ -128,6 +128,7 @@
         "vscode-leetcode": "http://118.178.253.239:9000/vsix/LeetCode.vscode-leetcode-0.17.0.vsix",
         "vscode-livecode": "http://118.178.253.239:9000/vsix/MS-vsliveshare.vsliveshare-pack-0.4.0.vsix",
         "vscode-eslint": "http://118.178.253.239:9000/vsix/dbaeumer.vscode-eslint-2.1.19.vsix",
-        "jupyter": "http://118.178.253.239:9000/vsix/ms-toolsai.jupyter-2021.4.641214696.vsix"
+        "jupyter": "http://118.178.253.239:9000/vsix/ms-toolsai.jupyter-2021.4.641214696.vsix",
+        "C/C++":" https://github.91chifun.workers.dev/https://github.com//ChenChienhang/code-platform/releases/download/attachment/ms-vscode.cpptools-1.2.2.vsix"
     }
 }
